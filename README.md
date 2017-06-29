@@ -3,7 +3,7 @@
 本次练习基于以下链接中的项目进行优化：
 https://raw.githubusercontent.com/udacity/cn-frontend-development-advanced/master/Website%20Optimization_zh.zip
 
-###优化目标：
+### 优化目标：
 1. index.html 的 PageSpeed Insights得分高于90
 2. view/pizza.html在滚动时保持60FPS的帧速
 3. view/pizza.html在调整pizza大小的时间小于5毫秒
