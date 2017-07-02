@@ -51,3 +51,7 @@ https://raw.githubusercontent.com/udacity/cn-frontend-development-advanced/maste
 
 * <a href="http://getbootstrap.com/css/">Bootstrap CSS</a>
 * <a href="http://getbootstrap.com/components/">Bootstrap组件</a>
+
+### 更新记录
+* 1. 修复调用changePizzaSizes时，pizza大小没有改变的问题
+* 2. 优化index.html中CSS阻塞的问题
